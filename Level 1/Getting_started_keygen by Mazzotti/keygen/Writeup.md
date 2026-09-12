@@ -1,4 +1,4 @@
-# Crackme Name
+# getting started keygen
 
 - Platform: Linux
 - Architecture: x86-64
